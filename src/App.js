@@ -7,7 +7,7 @@ function App() {
 
   console.log("Component rendering");
 
-  return <button>Click Me</button>;
+  return <button>Click</button>;
 }
 
 export default App;
